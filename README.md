@@ -20,7 +20,7 @@ npm link;
 # initalize consuming app
 cd esm-app
 npm install;
-npm link esm-package;
+npm link esm-app;
 
 # tests may or may not fail, depending on the weather
 npm t
