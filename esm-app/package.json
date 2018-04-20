@@ -4,17 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "test:coverage": "nyc"
+    "start": "node -r esm index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "esm": "^3.0.20"
-  },
-  "devDependencies": {
-    "mocha": "^5.0.4",
-    "node-uuid": "^1.4.8",
-    "nyc": "^11.6.0"
   }
 }
