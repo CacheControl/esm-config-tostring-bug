@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "config": "^1.30.0",
     "esm": "^3.0.20"
   }
 }
